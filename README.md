@@ -2,7 +2,7 @@
 
 Goal: The purpose of this project is to test CI-CD Pipeline setup with Jenkins Automation Server.
 
-### Database Infoi 
+### Database Infoiiii
 - `src/main/resources/application.properties` 
 
 ### Steps for building/running this project
