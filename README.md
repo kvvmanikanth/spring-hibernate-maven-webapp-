@@ -11,7 +11,7 @@ Be in the directory docker-jenkins
 - `Create a database with name : websystique`
 - `Database connectivity config is in : src/main/resources/application.properties`
 
-#### Steps for creating a Schema
+#### Steps for creating a Schemia
 
 `CREATE TABLE EMPLOYEE(
     id INT NOT NULL auto_increment, 
