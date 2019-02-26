@@ -154,7 +154,7 @@
 	<distributionManagement>
         <repository>
             <id>releases</id>
-            <url>http://ec2-100-26-182-217.compute-1.amazonaws.com:8081/repository/maven-releases/</url>
+            <url>http://ec2-100-26-182-217.compute-1.amazonaws.com:8081/repository/sample-repo/</url>
         </repository>
     	</distributionManagement>
 </project>
